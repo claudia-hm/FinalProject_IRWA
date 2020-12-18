@@ -22,7 +22,7 @@ Google Colab
 
 Running the tests
 ------
-Run the search_engine.ipynb notebook. Mount drive when prompted.
+Run the notebooks: search_engine.ipynb, RQ1.ipynb, RQ2.ipynb and RQ3.ipynb. Mount drive when prompted.
 
 
 ### Results
