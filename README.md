@@ -30,7 +30,7 @@ Our results and main findings can be read in the following [report](https://driv
 
 Authors
 ------
-* Núria Varas Paneque (nuria.varas01@estudiant.upf.edu )
+* [Núria Varas Paneque](https://www.linkedin.com/in/núria-varas-paneque-bb67711a1/) (nuria.varas01@estudiant.upf.edu )
 * [Sara Estévez Manteiga](www.linkedin.com/in/saraestevezmanteiga/) (sara.estevez02@estudiant.upf.edu)
 * [Claudia Herron Mulet](https://www.linkedin.com/in/claudiaherronmulet/) (claudia.herron01@estudiant.upf.edu)  
 
