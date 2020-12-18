@@ -26,7 +26,7 @@ Run the search_engine.ipynb notebook. Mount drive when prompted.
 
 
 ### Results
-
+Our results and main findings can be read in the following [report](https://docs.google.com/document/d/17S8hKz-TSUQlOO7fbCNZbz8DgNrSSnQcKArnjO51_kw/edit?usp=sharing)
 
 Authors
 ------
